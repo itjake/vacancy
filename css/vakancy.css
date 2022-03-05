@@ -1,0 +1,47 @@
+.vacancy{
+  padding-top: 84px;
+}
+
+.vacancy__rule{
+  margin-right: 22px;
+}
+
+.vacancy__info{
+  margin-left: 26px;
+}
+.vacancy__item {
+  justify-content: space-between;
+  background: white;
+  padding: 25px 35px;
+  margin-bottom: 40px;
+  width: 830px;
+}
+
+.vakancy__avatar {
+  background: url(../img/screen-0.jpg);
+  background-position: center;
+  height: 100px;
+  width: 100px;
+  background-size: cover;
+  border-radius: 100%;
+}
+
+.vacancy__actual {
+  background: #323232;
+  border-radius: 25px;
+  padding: 5px 9px 5px 10px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  margin-left: 8px;
+  color: #ffffff;
+}
+
+.vacancy__title{
+  font-weight: normal;
+  margin: 7px 0px 17px;
+  font-family: Roboto;
+}
+
